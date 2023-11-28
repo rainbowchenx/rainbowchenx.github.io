@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.LBXiIpgL.js";const d=JSON.parse('{"title":"JS 模块化","description":"","frontmatter":{},"headers":[],"relativePath":"zhaowa/JS模块化.md","filePath":"zhaowa/JS模块化.md"}'),p={name:"zhaowa/JS模块化.md"},o=l("",62),e=[o];function c(t,r,E,y,i,F){return n(),a("div",null,e)}const A=s(p,[["render",c]]);export{d as __pageData,A as default};
