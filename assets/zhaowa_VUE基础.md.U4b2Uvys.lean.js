@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,R as o}from"./chunks/framework.LBXiIpgL.js";const h=JSON.parse('{"title":"vue 基础","description":"","frontmatter":{},"headers":[],"relativePath":"zhaowa/VUE基础.md","filePath":"zhaowa/VUE基础.md"}'),d={name:"zhaowa/VUE基础.md"},r=o("",12),p=[r];function l(n,i,m,s,u,_){return t(),a("div",null,p)}const v=e(d,[["render",l]]);export{h as __pageData,v as default};
