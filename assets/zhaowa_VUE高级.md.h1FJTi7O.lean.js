@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.LBXiIpgL.js";const g=JSON.parse('{"title":"VUE 高级","description":"","frontmatter":{},"headers":[],"relativePath":"zhaowa/VUE高级.md","filePath":"zhaowa/VUE高级.md"}'),p={name:"zhaowa/VUE高级.md"},o=l("",37),t=[o];function e(c,r,E,y,i,d){return n(),a("div",null,t)}const h=s(p,[["render",e]]);export{g as __pageData,h as default};
