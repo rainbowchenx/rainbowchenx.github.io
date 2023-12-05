@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.LBXiIpgL.js";const h=JSON.parse('{"title":"浏览器相关","description":"","frontmatter":{},"headers":[],"relativePath":"zhaowa/浏览器相关.md","filePath":"zhaowa/浏览器相关.md"}'),p={name:"zhaowa/浏览器相关.md"},o=l("",44),e=[o];function t(c,r,E,y,i,F){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{h as __pageData,u as default};
